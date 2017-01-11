@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "3.10.3"
   },
   "pages": {
@@ -436,131 +436,6 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-o",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-60.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-89.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Rower 1",
-          "subtitle1": "",
-          "caption1": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-24.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Rower 2",
-          "subtitle2": "",
-          "caption2": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-65.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Rower 3",
-          "subtitle3": "",
-          "caption3": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-79.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Rower 4",
-          "subtitle4": "",
-          "caption4": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "I": {
-              "color": "#000000"
-            },
-            "H4": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
           "_styles": {
             "I": {
               "color": "#000000"
@@ -695,6 +570,131 @@
             }
           },
           "_anchor": "features3-s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/wojtas/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-60_1.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-89-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Rower 1",
+          "subtitle1": "",
+          "caption1": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-24-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Rower 2",
+          "subtitle2": "",
+          "caption2": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-65-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Rower 3",
+          "subtitle3": "",
+          "caption3": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-79-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Rower 4",
+          "subtitle4": "",
+          "caption4": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "I": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-t",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,

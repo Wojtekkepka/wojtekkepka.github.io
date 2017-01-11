@@ -576,12 +576,6 @@ h6,
 #header3-n .mbr-section-subtitle {
   text-align: center;
 }
-#features3-o I {
-  color: #000000;
-}
-#features3-o H4 {
-  color: #000000;
-}
 #features3-r I {
   color: #000000;
 }
@@ -592,6 +586,12 @@ h6,
   color: #000000;
 }
 #features3-s H4 {
+  color: #000000;
+}
+#features3-t I {
+  color: #000000;
+}
+#features3-t H4 {
   color: #000000;
 }
 #contacts1-m P {
