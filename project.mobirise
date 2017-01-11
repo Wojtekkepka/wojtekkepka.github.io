@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Nazwa Firmy</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Katalog</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"kontakt.html\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Katalog</a></li>"
         },
         {
           "_name": "header1",
@@ -409,7 +409,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Nazwa Firmy</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Katalog</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"kontakt.html\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Katalog</a></li>"
         },
         {
           "_styles": {
@@ -575,7 +575,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-6019.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-6024.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -594,7 +594,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-8915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-8920.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -610,7 +610,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-2416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-2421.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -626,7 +626,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-6517.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-6522.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -642,7 +642,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-7918.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-7923.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -700,7 +700,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-6019.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-6024.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -719,7 +719,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-8915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-8920.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -735,7 +735,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-2416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-2421.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -751,7 +751,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-6517.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-6522.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -767,7 +767,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-7918.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-7923.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1124,7 +1124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Nazwa Firmy</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Katalog</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"kontakt.html\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"katalog.html\">Katalog</a></li>"
         },
         {
           "_tags": [
