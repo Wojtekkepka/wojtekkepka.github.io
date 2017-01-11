@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "kontakt.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -233,7 +233,7 @@
                 "showText": true,
                 "text": "krótki opis.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zobacz w katalogu</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"katalog.html\" data-toolbar=\"-mbrBtnMove\">Zobacz w katalogu</a> "
               },
               {
                 "active": false,
@@ -247,7 +247,7 @@
                 "showText": true,
                 "text": "krótki opis.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zobacz w katalogu</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"katalog.html\" data-toolbar=\"-mbrBtnMove\">Zobacz w katalogu</a> "
               },
               {
                 "active": true,
@@ -261,7 +261,7 @@
                 "showText": true,
                 "text": "krótki opis.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zobacz w katalogu</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"katalog.html\" data-toolbar=\"-mbrBtnMove\">Zobacz w katalogu</a> "
               }
             ],
             "fullScreen": true,
