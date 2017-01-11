@@ -1,9 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-
 
 
 
@@ -485,14 +483,6 @@ h6,
 #header1-1 .mbr-section-lead {
   color: #ffffff;
   font-family: 'Lora', serif;
-}
-#msg-box8-j .mbr-section-title,
-#msg-box8-j p {
-  color: #fff;
-}
-#msg-box8-j .mbr-section-title {
-  font-family: 'Ubuntu', sans-serif;
-  color: #efefef;
 }
 #slider-i H2 {
   text-align: center;
