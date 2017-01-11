@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "example.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1308,7 +1308,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "<p>FUJI TRANSONIC SL 2016\u001b<br></p>",
@@ -1369,7 +1369,7 @@
               }
             ],
             "fullScreen": false,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showBullets": true
           },
           "_anchor": "slider3-15",
@@ -1384,7 +1384,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<h1>Cena: &nbsp;17 999,00zł</h1>",
           "_styles": {
@@ -1405,7 +1405,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p>Fuji to jedna z najstarszych marek rowerowych na świecie. Została założona w 1899 roku w Japonii przez Nihibei Fuji. Firma kieruje się trzema pryncypiami: siła, dziedzictwo i pasja. Przy tworzeniu swoich technologii kolarskich marka angażuje najlepszych sportowców z całego świata. W latach dwudziestych ubiegłego wieku rowery Fuji były najpopularniejszymi rowerami w Japonii. Od początku lat siedemdziesiątych rozpoczęła podbój USA. Obecnie marka obejmuje rowery górskie, crossowe oraz szosowe. Poza sprzedażą firma zajmuje się także wsparciem dla sportu zawodowego jak i amatorskiego. W Polsce przez Fuji sponsoruje zawodową grupę kolarską Team Wibatech Fuji Żory.</p><p><br></p><p><b>Rama:</b>\tC10 ultra high-modulus carbon, integrated head tube w/ 1 1/2\" lower, press fit BB30, double water bottle mounts &nbsp;</p><p><b>Tylni trójkąt: </b>C10 ultra high-modulus carbon thin seatstays, oversized chainstays w/ replaceable hanger&nbsp;</p><p><b>Widelec: </b>FC-330 carbon monocoque w/ tapered carbon steerer&nbsp;</p><p><b>Mechanizm korbowy:</b> &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">SRAM Red22 carbon, 53/39T &nbsp;</span></p><p><b>Suport: </b>SRAM Red, press-fit BB30, ceramic bearing&nbsp;</p><p><b>Przednia przerzutka:</b> SRAM Red22, braze-on mount &nbsp;&nbsp;</p><p><b>Tylnia przerzutka:</b> SRAM Red22, 11-speed &nbsp;&nbsp;</p><p><b>Manetki: </b>SRAM Red22, ErgoDynamic, 11-speed&nbsp;</p><p><b>Kaseta: </b>SRAM Red PowerDome, 11-26T, 11-speed&nbsp;</p><p><b>Łańcuch:</b> KMC X11SL Ni-Ti plated, 11-speed&nbsp;</p><p><b>Koła:</b> Oval 950 carbon clincher, 20 / 24h&nbsp;</p><p><b>Opony:&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Vittoria Open Corsa CX, 700 x 25, 320 tpi, folding&nbsp;</span></p><p><b>Hamulce:&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tektro / TRP direct mount</span></p><p><b>Stery:&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">FSA, 1 1/8\" upper - 1 1/2\" lower, integrated w/ carbon top cover &nbsp;</span></p><p><b>Kierownica:</b>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Oval Concepts R910SL, carbon, 31.8mm</span></p><p><b>Mostek: </b>Oval Concepts 777SL, 3D-forged 7050 alloy, 31.8mm, +/- 7° &nbsp;&nbsp;</p><p><b>Owijka: </b>Oval Concepts 300, padded suede&nbsp;</p><p><b>Siodełko: </b>Oval Concepts R900 w/ carbon rails</p><p><b>Sztyca: </b>Transonic aero carbon, 300mm (46-52cm), 350mm (54-61cm)&nbsp;</p><p><b>Waga:</b> LB./KG.15lbs. / 6.82kg.</p>"
         },
