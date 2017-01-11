@@ -1382,7 +1382,7 @@
           "_name": "content1",
           "_anchor": "content1-17",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
