@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "katalog.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 44,
+    "uniqCompNum": 46,
     "versionPublish": "3.10.3"
   },
   "pages": {
@@ -486,7 +486,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -495,14 +495,14 @@
           "title1": "Rower 1",
           "subtitle1": "",
           "caption1": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-24-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -511,14 +511,14 @@
           "title2": "Rower 2",
           "subtitle2": "",
           "caption2": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-65-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -527,14 +527,14 @@
           "title3": "Rower 3",
           "subtitle3": "",
           "caption3": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-79-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -543,7 +543,7 @@
           "title4": "Rower 4",
           "subtitle4": "",
           "caption4": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -582,13 +582,13 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features3-s",
+          "_anchor": "features3-18",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///C:/Users/wojtas/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-60_1.jpg",
+            "bgImage": "file:///C:/Users/wojtas/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-60_2.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
@@ -607,11 +607,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-89-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-89-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -620,14 +620,14 @@
           "title1": "Rower 1",
           "subtitle1": "",
           "caption1": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-24-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-24-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -636,14 +636,14 @@
           "title2": "Rower 2",
           "subtitle2": "",
           "caption2": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-65-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-65-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -652,14 +652,14 @@
           "title3": "Rower 3",
           "subtitle3": "",
           "caption3": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-79-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-79-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -668,7 +668,7 @@
           "title4": "Rower 4",
           "subtitle4": "",
           "caption4": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -707,13 +707,13 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features3-t",
+          "_anchor": "features3-19",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///C:/Users/wojtas/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-60_1.jpg",
+            "bgImage": "file:///C:/Users/wojtas/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1440909921208-2fcbb9e42f7e-2000x1334-60_2.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
@@ -732,11 +732,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-89-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-89-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -745,14 +745,14 @@
           "title1": "Rower 1",
           "subtitle1": "",
           "caption1": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-24-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-24-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -761,14 +761,14 @@
           "title2": "Rower 2",
           "subtitle2": "",
           "caption2": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-65-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-65-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -777,14 +777,14 @@
           "title3": "Rower 3",
           "subtitle3": "",
           "caption3": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-79-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/addict-gravel-disc-detail-image-2016-bike-scott-sports-14-kopia-600x398-79-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "example.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -793,7 +793,7 @@
           "title4": "Rower 4",
           "subtitle4": "",
           "caption4": "<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi purus ligula, pretium blandit porttitor non, maximus dapibus velit. Vivamus luctus dictum vestibulum. Quisque a porttitor nisl. Ut tincidunt ut ante quis sollicitudin. Sed dignissim vel eros non efficitur.</i>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"example.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Zobacz Więcej</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1208,8 +1208,10 @@
         }
       ]
     },
-    "page3.html": {
-      "settings": {},
+    "example.html": {
+      "settings": {
+        "title": "FUJI TRANSONIC SL 2016 - Nazwa Firmy"
+      },
       "components": [
         {
           "_styles": {
