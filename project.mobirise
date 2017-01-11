@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "example.html",
+    "currentPage": "kontakt.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -28,8 +28,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Nazwa Firmy",
-        "meta_descr": "",
+        "title": "Strona Główna - Nazwa Firmy",
+        "meta_descr": "Nazwa Firmy - opis firmy ..........",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -890,7 +890,8 @@
             },
             "B": {
               "text-align": "right",
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#c0a375"
             },
             "H4": {
               "font-size": "48px"
