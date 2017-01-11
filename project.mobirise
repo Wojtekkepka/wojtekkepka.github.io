@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "katalog.html",
+    "currentPage": "kontakt.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -120,9 +120,10 @@
               "linkInNewWindow": false,
               "name": "friendfeed",
               "family": "socicon",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Nazwa Firmy</a>",
