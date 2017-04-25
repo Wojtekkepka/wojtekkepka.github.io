@@ -66,6 +66,9 @@
     background: -moz-linear-gradient(#BD3F32, #CB356B); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#BD3F32, #CB356B); /* Standard syntax */
 }
+.test {
+  max-width: 720px;
+}
 .lies h2{
   position: relative;
   font-family: 'Quicksand', sans-serif;
