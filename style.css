@@ -119,6 +119,7 @@ hr.style17 {
   left: 200px;
   width: 700px;
   height: 445px;
+  min-width: 300px;
   border: 2px solid rgba(0, 0, 0, 0.5);
 }
 .contact img{
