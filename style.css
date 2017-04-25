@@ -71,6 +71,7 @@
     background: linear-gradient(#BD3F32, #CB356B); /* Standard syntax */
 }
 .lies h2{
+  float: center;
   position: relative;
   font-family: 'Quicksand', sans-serif;
   color: #fff;
