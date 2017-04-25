@@ -91,6 +91,7 @@
 hr.style17 {
   position: relative;
   top: 100px;
+  bottom: 100px;
   color: #000;
   background-color: red;
   float: center;
