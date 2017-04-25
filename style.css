@@ -78,7 +78,7 @@
 .lies p {
   position: relative;
   color: #fff;
-
+  font-family: 'Quicksand', sans-serif;
 }
 .lies {
   position: relative;
@@ -108,7 +108,7 @@ hr.style17 {
   position: absolute;
   color: #fff;
   font-family: 'Quicksand', sans-serif;
-  top: 3028px;
+  top: 3000px;
   left: 0px;
   height: 53px;
   width: 100%;
