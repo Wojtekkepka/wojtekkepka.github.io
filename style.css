@@ -62,7 +62,7 @@
   position: absolute;
   top: 0px;
   left: 0px;
-  height: 2650px;
+  height: 2800px;
   width: 100%;
   background: #F45C43; /* For browsers that do not support gradients */
     background: -o-linear-gradient(#BD3F32, #CB356B); /* For Opera 11.1 to 12.0 */
@@ -71,34 +71,33 @@
     background: linear-gradient(#BD3F32, #CB356B); /* Standard syntax */
 }
 .lies h2{
-  float: center;
   position: relative;
+  text-align: center;
   font-family: 'Quicksand', sans-serif;
   color: #fff;
 }
 .lies p {
   position: relative;
-  color: #fff;
   font-family: 'Quicksand', sans-serif;
+  color: #fff;
+  text-align: center;
+  font-style: italic;
 }
 .lies {
+  display: block;
   position: relative;
-  top: 100px;
-  right: 100px;
-  max-width: 700px;
-  float: right;
-  border: 1px solid rgba(0, 0, 0, 0.5);
-  padding-left: 15px;
-  width: 700px;
-  background: rgba(52, 73, 94,.17);
+  top: 70px;
+  margin: auto;
+  float: center;
+  width: 400px;
 }
 #lel:hover {
   border: 2px solid rgba(255, 255, 255, 0.5);
 }
 hr.style17 {
   position: relative;
-  top: 200px;
-  margin-bottom: 200px;
+  top: 150px;
+  margin-bottom: 120px;
   color: #000;
   background-color: red;
   float: center;
@@ -109,7 +108,7 @@ hr.style17 {
   position: absolute;
   color: #fff;
   font-family: 'Quicksand', sans-serif;
-  top: 3000px;
+  top: 3100px;
   left: 0px;
   height: 53px;
   width: 100%;
@@ -121,10 +120,11 @@ hr.style17 {
   width: 150px;
 }
 #lel {
+  display: block;
   position: relative;
   top: 100px;
-  left: 100px;
   margin: auto;
+  float: center;
   width: 700px;
   height: 445px;
   border: 2px solid rgba(0, 0, 0, 0.5);
