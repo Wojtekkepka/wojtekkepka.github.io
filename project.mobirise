@@ -1,0 +1,546 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.11.1",
+    "versionPublish": "2.11.1",
+    "name": "MONA",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "publishType": "local",
+    "ftpLocation": "ftp://loloskiski@193.239.44.116:21",
+    "publishFtpPath": "",
+    "publishPath": "file:///C:/Users/wojtas/Desktop/m"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Studio MONA",
+        "meta_descr": "Studio MONA oferuje usługi z dziedziny fryzjerstwa, kosmetyki oraz solarium.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/oie-transparent-679x559-3.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"galeria.html\">GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.facebook.com/Studio-Fryzjerskie-MONA-326847244033897/?fref=ts\">FACEBOOK</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-3264x1836-91.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "showTitle": true,
+                "title": "Studio MONA",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0262-3152x1772-64.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "showTitle": true,
+                "title": "<p>Solarium&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0298-3264x1836-45.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "showTitle": true,
+                "title": "Kosmetyka",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-0289-3142x1767-2.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "showTitle": true,
+                "title": "Fryzjerstwo",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-23",
+          "articleLayout": false
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/oie-transparent-679x559-63.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<b>ADRES</b><br>CHABROWA 57, 81-087 Gdynia<b><br></b>",
+          "text2": "<b>KONTAKTY</b><br><b>Email:&nbsp;</b><br>salonfryzjerskimona57@gmail.com<br><b>Telefon:</b><br>58 713 59 07&nbsp;",
+          "text3": "<p><b>GODZINY OTWARCIA</b></p><p><span style=\"font-size: 14px; line-height: 1.7em;\"><b>Pon. - Piąt.:</b> 09:00 - 19:00</span></p><b>Sob.: </b>09:00 - 15:00<br><p><span style=\"font-size: 14px; line-height: 1.7em;\"><br></span></p><p><br></p><p></p><ul class=\"mbr-contacts__list\"></ul><p></p>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Śledź nas na Facebooku",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://web.facebook.com/Studio-Fryzjerskie-MONA-326847244033897/timeline\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 STUDIO MONA"
+        }
+      ]
+    },
+    "galeria.html": {
+      "settings": {
+        "title": "Studio MONA - Galeria",
+        "meta_descr": "Studio MONA oferuje usługi z dziedziny fryzjerstwa, kosmetyki oraz solarium."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/oie-transparent-679x559-79.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"kontakt.html\">KONTAKT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"galeria.html\">GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://web.facebook.com/Studio-Fryzjerskie-MONA-326847244033897/timeline\" target=\"_blank\">FACEBOOK</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/5669-1094180313967249-2153503330109013492-n-720x960-56-720x960-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5669-1094180313967249-2153503330109013492-n-720x960-56.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10553420-1041747612543853-7081515008696468945-n-960x539-79-960x539-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10553420-1041747612543853-7081515008696468945-n-960x539-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12998568-1114480985270515-1705012821662145445-n-717x547-65-717x547-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12998568-1114480985270515-1705012821662145445-n-717x547-65.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/13094280-1124544524264161-1704794267020349420-n-600x600-52-600x600-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13094280-1124544524264161-1704794267020349420-n-600x600-52.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/13179076-1130499230335357-2743069888965883954-n-600x600-43-600x600-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13179076-1130499230335357-2743069888965883954-n-600x600-43.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/13332724-1148374635214483-4388440830066268546-n-720x960-66-720x960-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13332724-1148374635214483-4388440830066268546-n-720x960-66.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12391942-1041752425876705-1868043627648912539-n-539x659-45-539x659-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12391942-1041752425876705-1868043627648912539-n-539x659-45.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0266-3185x1792-91-2000x1125-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0266-3185x1792-91.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0289-3142x1767-32-2000x1125-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0289-3142x1767-32.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0286-3212x1807-89-2000x1125-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0286-3212x1807-89.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0262-3152x1772-55-2000x1124-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0262-3152x1772-55.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#27aae0",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-10",
+          "articleLayout": false
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/oie-transparent-679x559-63.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<b>ADRES</b><br>CHABROWA 57, 81-087 Gdynia<b><br></b>",
+          "text2": "<b>KONTAKTY</b><br><b>Email:&nbsp;</b><br>salonfryzjerskimona57@gmail.com<br><b>Telefon:</b><br>58 713 59 07&nbsp;",
+          "text3": "<p><b>GODZINY OTWARCIA</b></p><p><span style=\"font-size: 14px; line-height: 1.7em;\"><b>Pon. - Piąt.:</b> 09:00 - 19:00</span></p><b>Sob.: </b>09:00 - 15:00<br><p><span style=\"font-size: 14px; line-height: 1.7em;\"><br></span></p><p><br></p><p></p><ul class=\"mbr-contacts__list\"></ul><p></p>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 STUDIO MONA"
+        }
+      ]
+    },
+    "kontakt.html": {
+      "settings": {
+        "title": "Studio MONA - Kontakt",
+        "meta_descr": "Studio MONA oferuje usługi z dziedziny fryzjerstwa, kosmetyki oraz solarium."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/oie-transparent-679x559-79.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"kontakt.html\">KONTAKT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"galeria.html\">GALERIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://web.facebook.com/Studio-Fryzjerskie-MONA-326847244033897/timeline\" target=\"_blank\">FACEBOOK</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "13px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "address": "CHABROWA 57\nGdynia",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#27aae0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "info": "Studio MONA"
+          },
+          "coord": [
+            54.53775599999999,
+            18.438773999999967
+          ],
+          "text1": "<b>ADRES</b><br>CHABROWA 57, 81-087 Gdynia<br><br><b>KONTAKTY</b><b><br>Email: </b><br>salonfryzjerskimona57@gmail.com<br><b>Telefon:</b><br>58 713 59 07&nbsp;<br>",
+          "text2": "<b>GODZINY OTWARCIA</b><div><b>Pon. - Piąt.: </b>09:00 - 19:00</div><div><b>Sob.: </b>09:00 - 15:00</div><div><br></div>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-16",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Śledź nas na Facebooku",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://web.facebook.com/Studio-Fryzjerskie-MONA-326847244033897/timeline\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 STUDIO MONA"
+        }
+      ]
+    }
+  }
+}
